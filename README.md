@@ -1,6 +1,6 @@
 # Minesweeper
 
-[image]
+![minesweeper_sample](https://github.com/Furaime/minesweeper/blob/6fd8d3175290de00bdf9fff54ee45373f25068a2/sample/minesweeper%20sample.png)
 
 This is a 2D minecraft implementation in python
 
